@@ -1,0 +1,2 @@
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe qc libBackTester.a  CMakeFiles/BackTester.dir/BackTester.cpp.obj CMakeFiles/BackTester.dir/AppBase.cpp.obj CMakeFiles/BackTester.dir/BookBuilder.cpp.obj CMakeFiles/BackTester.dir/BookUpdate.cpp.obj CMakeFiles/BackTester.dir/MarketSimulator.cpp.obj CMakeFiles/BackTester.dir/MDReader.cpp.obj CMakeFiles/BackTester.dir/Order.cpp.obj CMakeFiles/BackTester.dir/OrderManager.cpp.obj CMakeFiles/BackTester.dir/TradingStrategy.cpp.obj
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ranlib.exe libBackTester.a
